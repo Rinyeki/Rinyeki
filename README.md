@@ -19,7 +19,6 @@
 - SQL
 - Java
 - Python
-- SQL
 - HTML
 - JS
 - JQuery
