@@ -18,6 +18,9 @@
 
 - SQL
 - Java
+- JavaScript
+- NodeJS
+- React
 - Python
 - HTML
 - JS
